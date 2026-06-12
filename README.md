@@ -1,2 +1,37 @@
-# DSA_with-_Python-
-My Data Structures and Algorithms journey in Python. Solving curated problems with optimized solutions and explanations.
+# 🚀 DSA with Python
+
+Welcome to my Data Structures and Algorithms journey.
+
+I am solving curated DSA problems using Python and documenting my learning process.
+
+## Goals
+
+- Improve problem-solving skills
+- Learn important DSA patterns
+- Maintain coding consistency
+
+## Topics Covered
+
+- [ ] Arrays
+- [ ] Strings
+- [ ] Hashing
+- [ ] Recursion
+- [ ] Linked Lists
+- [ ] Stack
+- [ ] Queue
+- [ ] Binary Search
+- [ ] Trees
+- [ ] Graphs
+- [ ] Dynamic Programming
+
+## Progress
+
+| Topic | Problems Solved |
+|-------|----------------|
+| Arrays | 0 |
+| Strings | 0 |
+| Hashing | 0 |
+| Trees | 0 |
+| Graphs | 0 |
+
+⭐ Consistency is the key to improvement.

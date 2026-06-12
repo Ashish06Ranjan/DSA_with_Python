@@ -11,9 +11,9 @@ I am solving curated DSA problems using Python and documenting my learning proce
 - Maintain coding consistency
 
 ## Topics Covered
-
-- [ ] Arrays
-- [ ] Conditionals
+x -- in progress
+- [x] Arrays
+- [x] Conditionals
 - [ ] Strings
 - [ ] Hashing
 - [ ] Recursion

@@ -67,11 +67,14 @@ DSA_with_Python
 ├── LeetCode
 │   ├── Arrays
 │   ├── Conditionals
-│   ├── Strings
+│   └── Strings
 │
-└── Codeforces
-    ├── README.md
-    └── Solutions...
+├── Codeforces
+|   ├── README.md
+|   └── Solutions...
+│
+└── README.md
+
 ```
 
 ⭐ Consistency is the key to improvement.

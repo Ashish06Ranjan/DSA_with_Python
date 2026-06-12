@@ -1,5 +1,8 @@
 """
-412_Fizz_Buzz.py
+412.  Fizz Buzz
+
+Approach:
+Count through the numbers and use different condition in it . 
 
 """
 

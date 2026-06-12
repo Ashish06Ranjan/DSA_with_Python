@@ -11,7 +11,7 @@ I am solving curated DSA problems using Python and documenting my learning proce
 - Maintain coding consistency
 
 ## Topics Covered
-x -- in progress
+
 - [x] Arrays
 - [x] Conditionals
 - [ ] Strings

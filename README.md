@@ -13,6 +13,7 @@ I am solving curated DSA problems using Python and documenting my learning proce
 ## Topics Covered
 
 - [ ] Arrays
+- [ ] Conditionals
 - [ ] Strings
 - [ ] Hashing
 - [ ] Recursion
@@ -26,12 +27,13 @@ I am solving curated DSA problems using Python and documenting my learning proce
 
 ## Progress
 
-| Topic | Problems Solved |
-|-------|----------------|
-| Arrays | 0 |
-| Strings | 0 |
-| Hashing | 0 |
-| Trees | 0 |
-| Graphs | 0 |
+|     Topic    | Problems Solved |
+|--------------|-----------------|
+|     Arrays   | 1 |
+| Conditionals | 1 | 
+|    Strings   | 0 |
+|   Hashing    | 0 |
+|    Trees     | 0 |
+|    Graphs    | 0 |
 
 ⭐ Consistency is the key to improvement.

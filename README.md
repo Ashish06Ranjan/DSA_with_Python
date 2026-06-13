@@ -15,7 +15,7 @@ This repository contains my solutions to curated DSA problems from the Teachers 
 
 - [x] Arrays
 - [x] Conditionals
-- [ ] Strings
+- [x] Strings
 - [ ] Hashing
 - [ ] Recursion
 - [ ] Linked Lists
@@ -30,9 +30,9 @@ This repository contains my solutions to curated DSA problems from the Teachers 
 
 | Topic | Problems Solved |
 |-------|-----------------|
-| Arrays | 1 |
+| Arrays | 2 |
 | Conditionals | 1 |
-| Strings | 0 |
+| Strings | 1 |
 | Hashing | 0 |
 | Recursion | 0 |
 | Linked Lists | 0 |

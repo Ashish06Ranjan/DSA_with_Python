@@ -16,7 +16,7 @@ This repository contains my solutions to curated DSA problems from the Teachers 
 - [x] Arrays
 - [x] Conditionals
 - [x] Strings
-- [ ] Hashing
+- [x] Hashing
 - [ ] Recursion
 - [ ] Linked Lists
 - [ ] Stack
@@ -33,7 +33,7 @@ This repository contains my solutions to curated DSA problems from the Teachers 
 | Arrays | 2 |
 | Conditionals | 1 |
 | Strings | 1 |
-| Hashing | 0 |
+| Hashing | 1 |
 | Recursion | 0 |
 | Linked Lists | 0 |
 | Stack | 0 |

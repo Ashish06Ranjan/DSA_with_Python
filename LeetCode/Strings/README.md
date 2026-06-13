@@ -4,9 +4,9 @@ This folder contains strings-related DSA problems solved in Python.
 
 ## Problems Solved
 
-| No.  |           Problem Name                  | Platform | Difficulty |
-|------|-----------------------------------------|----------|------------|
-| 125  |          Valid Palindrome               | LeetCode | Easy       |
+| No.  |           Problem Name              |Difficulty |
+|------|-------------------------------------|------------|
+| 125  |          Valid Palindrome           | Easy       |
 
 
 

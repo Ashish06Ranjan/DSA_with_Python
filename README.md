@@ -19,7 +19,7 @@ This repository contains my solutions to curated DSA problems from the Teachers 
 - [x] Hashing
 - [ ] Recursion
 - [ ] Linked Lists
-- [ ] Stack
+- [x] Stack
 - [ ] Queue
 - [ ] Binary Search
 - [ ] Trees
@@ -36,7 +36,7 @@ This repository contains my solutions to curated DSA problems from the Teachers 
 | Hashing | 1 |
 | Recursion | 0 |
 | Linked Lists | 0 |
-| Stack | 0 |
+| Stack | 1 |
 | Queue | 0 |
 | Binary Search | 0 |
 | Trees | 0 |

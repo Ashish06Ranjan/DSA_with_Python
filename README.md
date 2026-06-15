@@ -39,7 +39,7 @@ This repository contains my solutions to curated DSA problems from the Teachers 
 | Stack | 1 |
 | Queue | 0 |
 | Binary Search | 0 |
-| Trees |10 |
+| Trees |1|
 | Graphs | 0 |
 | Dynamic Programming | 0 |
 

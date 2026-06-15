@@ -22,7 +22,7 @@ This repository contains my solutions to curated DSA problems from the Teachers 
 - [x] Stack
 - [ ] Queue
 - [ ] Binary Search
-- [ ] Trees
+- [x] Trees
 - [ ] Graphs
 - [ ] Dynamic Programming
 
@@ -32,14 +32,14 @@ This repository contains my solutions to curated DSA problems from the Teachers 
 |-------|-----------------|
 | Arrays | 2 |
 | Conditionals | 1 |
-| Strings | 1 |
+| Strings | 2 |
 | Hashing | 1 |
 | Recursion | 0 |
 | Linked Lists | 1 |
 | Stack | 1 |
 | Queue | 0 |
 | Binary Search | 0 |
-| Trees | 0 |
+| Trees |10 |
 | Graphs | 0 |
 | Dynamic Programming | 0 |
 

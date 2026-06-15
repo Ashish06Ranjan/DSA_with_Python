@@ -7,6 +7,7 @@ This folder contains strings-related DSA problems solved in Python.
 | No.  |           Problem Name              |Difficulty |
 |------|-------------------------------------|------------|
 | 125  |          Valid Palindrome           | Easy       |
+|49|Group Anagrams |Medium|
 
 
 

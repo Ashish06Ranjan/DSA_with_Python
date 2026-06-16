@@ -2,7 +2,7 @@
 
 Welcome to my Data Structures and Algorithms journey.
 
-This repository contains my solutions to curated DSA problems from the Teachers Day VIT DSA Sheet, LeetCode, and my competitive programming practice on Codeforces using Python.
+This repository contains my solutions to curated DSA problems from LeetCode, and my competitive programming practice on Codeforces using Python.
 
 ## Goals
 

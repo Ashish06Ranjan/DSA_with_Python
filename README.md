@@ -17,6 +17,7 @@ This repository contains my solutions to curated DSA problems from LeetCode, and
 - [x] Conditionals
 - [x] Strings
 - [x] Hashing
+- [x] Heap
 - [ ] Recursion
 - [x] Linked Lists
 - [x] Stack
@@ -34,12 +35,13 @@ This repository contains my solutions to curated DSA problems from LeetCode, and
 | Conditionals | 1 |
 | Strings | 2 |
 | Hashing | 1 |
+| Heap | 1 |
 | Recursion | 0 |
 | Linked Lists | 1 |
 | Stack | 1 |
 | Queue | 0 |
 | Binary Search | 0 |
-| Trees |1|
+| Trees |2|
 | Graphs | 0 |
 | Dynamic Programming | 0 |
 

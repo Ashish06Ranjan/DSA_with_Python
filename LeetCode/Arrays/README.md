@@ -8,6 +8,6 @@ This folder contains array-related DSA problems solved in Python.
 |------|-----------------------------------------|------------|
 | 1295 | Find Numbers with Even Number of Digits |  Easy      |
 |  1   |                 Two Sum                 |  Easy      |
-
+| 121 | Best Time to Buy and Sell Stock | Easy |
 
 🚀 Consistency is the key to mastery.

@@ -7,6 +7,7 @@ This folder contains problems based on stack statements.
 | No. | Problem Name | Difficulty |
 |-----|--------------|------------|
 | 20 |  Valid Parentheses   | Easy|
+|155|Min Stack|Medium|
 
 
 🚀 Keep learning and stay consistent.

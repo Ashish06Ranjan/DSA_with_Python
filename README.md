@@ -31,14 +31,14 @@ This repository contains my solutions to curated DSA problems from LeetCode, and
 
 | Topic | Problems Solved |
 |-------|-----------------|
-| Arrays | 2 |
+| Arrays | 3 |
 | Conditionals | 1 |
 | Strings | 2 |
 | Hashing | 1 |
 | Heap | 1 |
 | Recursion | 0 |
 | Linked Lists | 1 |
-| Stack | 1 |
+| Stack | 2 |
 | Queue | 0 |
 | Binary Search | 0 |
 | Trees |2|

@@ -8,6 +8,6 @@ This folder contains problems based on trees.
 |-----|--------------|------------|
 | 100 | Same Tree   | Easy|
 | 226 | Invert Binary Tree | Easy |
-
+|104| Maximum Depth of Binary Tree |Easy|
 
 🚀 Keep learning and stay consistent.

@@ -31,7 +31,7 @@ This repository contains my solutions to curated DSA problems from LeetCode, and
 
 | Topic | Problems Solved |
 |-------|-----------------|
-| Arrays | 3 |
+| Arrays | 4 |
 | Conditionals | 1 |
 | Strings | 2 |
 | Hashing | 1 |
@@ -41,7 +41,7 @@ This repository contains my solutions to curated DSA problems from LeetCode, and
 | Stack | 2 |
 | Queue | 0 |
 | Binary Search | 0 |
-| Trees |2|
+| Trees | 3 |
 | Graphs | 0 |
 | Dynamic Programming | 0 |
 

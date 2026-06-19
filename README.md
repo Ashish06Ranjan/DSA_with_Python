@@ -31,13 +31,13 @@ This repository contains my solutions to curated DSA problems from LeetCode, and
 
 | Topic | Problems Solved |
 |-------|-----------------|
-| Arrays | 4 |
+| Arrays | 5 |
 | Conditionals | 1 |
 | Strings | 2 |
 | Hashing | 1 |
 | Heap | 1 |
 | Recursion | 0 |
-| Linked Lists | 1 |
+| Linked Lists | 2 |
 | Stack | 2 |
 | Queue | 0 |
 | Binary Search | 0 |

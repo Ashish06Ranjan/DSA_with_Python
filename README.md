@@ -35,9 +35,9 @@ This repository contains my solutions to curated DSA problems from LeetCode, and
 | Conditionals | 1 |
 | Strings | 2 |
 | Hashing | 1 |
-| Heap | 1 |
+| Heap | 2 |
 | Recursion | 0 |
-| Linked Lists | 2 |
+| Linked Lists | 3 |
 | Stack | 2 |
 | Queue | 0 |
 | Binary Search | 0 |

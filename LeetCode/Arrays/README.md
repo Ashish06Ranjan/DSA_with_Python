@@ -11,5 +11,7 @@ This folder contains array-related DSA problems solved in Python.
 | 121 | Best Time to Buy and Sell Stock | Easy |
 |56|Merge Intervals|Medium|
 |53|Maximum Subarray|Easy|
+|238|Product of Array Except Self|Medium|
+
 
 🚀 Consistency is the key to mastery.

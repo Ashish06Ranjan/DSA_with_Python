@@ -12,6 +12,7 @@ This folder contains array-related DSA problems solved in Python.
 |56|Merge Intervals|Medium|
 |53|Maximum Subarray|Easy|
 |238|Product of Array Except Self|Medium|
+|167|Two Sum II - Input Array Is Sorted|Easy|
 
 
 🚀 Consistency is the key to mastery.

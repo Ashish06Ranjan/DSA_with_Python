@@ -11,5 +11,6 @@ This folder contains problems based on trees.
 |104| Maximum Depth of Binary Tree |Easy|
 |101|Symmetric Tree|Easy
 |110 |Balanced Binary Tree|Easy
+|543|Diameter of Binary Tree|Easy
 
 🚀 Keep learning and stay consistent.

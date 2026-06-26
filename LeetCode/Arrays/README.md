@@ -13,6 +13,6 @@ This folder contains array-related DSA problems solved in Python.
 |53|Maximum Subarray|Easy|
 |238|Product of Array Except Self|Medium|
 |167|Two Sum II - Input Array Is Sorted|Easy|
-
+|33|Search in Rotated Sorted Array|Medium|
 
 🚀 Consistency is the key to mastery.

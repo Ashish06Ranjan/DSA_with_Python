@@ -8,6 +8,7 @@ This folder contains strings-related DSA problems solved in Python.
 |------|-------------------------------------|------------|
 | 125  |          Valid Palindrome           | Easy       |
 |49|Group Anagrams |Medium|
+|383|Ransom Note|Easy
 
 
 

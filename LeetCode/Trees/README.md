@@ -12,5 +12,6 @@ This folder contains problems based on trees.
 |101|Symmetric Tree|Easy
 |110 |Balanced Binary Tree|Easy
 |543|Diameter of Binary Tree|Easy
+|235|Lowest Common Ancestor of a Binary Search Tree|Medium 
 
 🚀 Keep learning and stay consistent.
